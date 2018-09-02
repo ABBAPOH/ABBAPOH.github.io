@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+  <namespace>org.abbapoh.textureviewer</namespace>
+  <virtualFolder>doc</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="Texture Viewer" ref="index.html">
+        <section title="Direct Draw Surface Format" ref="md_src_plugins_dds__f_o_r_m_a_t.html" />
+        <section title="Khronos Texture" ref="md_src_plugins_ktx__f_o_r_m_a_t.html" />
+        <section title="PKM Format" ref="md_src_plugins_pkm__f_o_r_m_a_t.html" />
+        <section title="Valve Texture Format" ref="md_src_plugins_vtf__f_o_r_m_a_t.html" />
+        <section title="Namespaces">
+          <section title="Namespace List" ref="namespaces.html">
+            <section title="Details" ref="namespace_details.html" />
+            <section title="gsl" ref="namespacegsl.html">
+              <section title="details" ref="namespacegsl_1_1details.html" />
+            </section>
+            <section title="Private">
+              <section title="detail" ref="namespace_private_1_1detail.html" />
+            </section>
+            <section title="TextureTool" ref="namespace_texture_tool.html" />
+          </section>
+          <section title="Namespace Members" ref="namespacemembers.html">
+            <section title="All" ref="namespacemembers.html" />
+            <section title="Enumerations" ref="namespacemembers_enum.html" />
+          </section>
+        </section>
+        <section title="Classes" ref="annotated.html">
+          <section title="Class List" ref="annotated.html">
+            <section title="gsl" ref="namespacegsl.html">
+              <section title="span" ref="classgsl_1_1span.html" />
+            </section>
+            <section title="Private">
+              <section title="expected" ref="class_private_1_1expected.html">
+                <section title="expected" ref="class_private_1_1expected.html#a115f6adf8b466b0e8ee462cb12b98ebb" />
+                <section title="expected" ref="class_private_1_1expected.html#adabb075fe5ad556d08d05c1b685d1393" />
+                <section title="expected" ref="class_private_1_1expected.html#ac4838cf6ac20872cacef6db8c0b79c1e" />
+                <section title="expected" ref="class_private_1_1expected.html#ac4838cf6ac20872cacef6db8c0b79c1e" />
+                <section title="expected" ref="class_private_1_1expected.html#ae3eb941316f541ac555de8fc7f6357bd" />
+                <section title="expected" ref="class_private_1_1expected.html#ac545dd88a2d998e70b5fabd2dc585aea" />
+                <section title="expected" ref="class_private_1_1expected.html#a6a4f6d0b2b42456f34efe07ee646bb32" />
+                <section title="expected" ref="class_private_1_1expected.html#a88072e11e5039e743d995b3c75c9db70" />
+                <section title="and_then" ref="class_private_1_1expected.html#afe8637ced114d6a5a171c38e1f91e82c" />
+                <section title="and_then" ref="class_private_1_1expected.html#a12491d2cbccac0314920231ca383397a" />
+                <section title="and_then" ref="class_private_1_1expected.html#a88d5b2ae25a3e5fa72f83dcec5308d5c" />
+                <section title="and_then" ref="class_private_1_1expected.html#a452a65040f44084409ee9966ef11abf7" />
+                <section title="emplace" ref="class_private_1_1expected.html#af10beeea8b5389f51441c3aa274623f6" />
+                <section title="emplace" ref="class_private_1_1expected.html#a0b7177f6e0c5b6dc0706490c4e9bf9a8" />
+                <section title="error" ref="class_private_1_1expected.html#ac1e736976bc17e7956b40d281248ef1f" />
+                <section title="error" ref="class_private_1_1expected.html#ae08c0f2d2e54860c96de4a812df92f1f" />
+                <section title="error" ref="class_private_1_1expected.html#ac3a9c49b2e02b0e6d112ced6762f4a9e" />
+                <section title="error" ref="class_private_1_1expected.html#a92f871372e3fece92a7560e44735dcfd" />
+                <section title="has_value" ref="class_private_1_1expected.html#a503b30fa27f858239581bac4769341d0" />
+                <section title="operator bool" ref="class_private_1_1expected.html#a01b0c430dbfc6f5ad4f34d0bc672d584" />
+                <section title="operator*" ref="class_private_1_1expected.html#a54d40480be076fdb9f043b34f8543721" />
+                <section title="operator*" ref="class_private_1_1expected.html#a1674a3930c1ba2665fd0d17616156212" />
+                <section title="operator*" ref="class_private_1_1expected.html#a17c857033d306025217570447d9ad731" />
+                <section title="operator*" ref="class_private_1_1expected.html#a64e143db2815ecf246063827ee84a54e" />
+                <section title="operator-&gt;" ref="class_private_1_1expected.html#a1769c9e7054f7fede66a58d9fd466828" />
+                <section title="operator-&gt;" ref="class_private_1_1expected.html#a2921488f5382f393ce747c8190d7a4b1" />
+                <section title="operator=" ref="class_private_1_1expected.html#ab7aa7f87936ad77c06461214bc4bc560" />
+                <section title="or_else" ref="class_private_1_1expected.html#a5b26de11cd2ff21ca19d50ee3e5a5557" />
+                <section title="value" ref="class_private_1_1expected.html#ad5bf336cf237374cd6b4deb66e7a1660" />
+                <section title="value" ref="class_private_1_1expected.html#a97c864b95f04a07f8b0cbe4b7a8f886e" />
+                <section title="value" ref="class_private_1_1expected.html#aa6a3f2b2aaadd23ad86b8088983765a2" />
+                <section title="value" ref="class_private_1_1expected.html#abce8616cb89d0ac30f1ca7f5be2184b8" />
+                <section title="value_or" ref="class_private_1_1expected.html#ab9879673c5ff7de3b52350afe1bbb9af" />
+                <section title="value_or" ref="class_private_1_1expected.html#a917f3218f35f513de69d21d989da1ae5" />
+                <section title="map" ref="class_private_1_1expected.html#a48033f4a3fac2e946c764258e809ced3" />
+                <section title="map" ref="class_private_1_1expected.html#a2837d89331e08be110ec5860edfd37a4" />
+                <section title="map" ref="class_private_1_1expected.html#a9563925e4c55b3e06cfe41fddbc9864d" />
+                <section title="map_error" ref="class_private_1_1expected.html#a1f352895b763aed083442063a3c200bb" />
+                <section title="map_error" ref="class_private_1_1expected.html#a4f753abd6b1439bcd84e8f5203f53fdc" />
+                <section title="map_error" ref="class_private_1_1expected.html#a4fc10b3abdd1524a85897ee264249abc" />
+                <section title="map_error" ref="class_private_1_1expected.html#a944d78ef7f0bd9ebfab4a78c4f27083b" />
+              </section>
+              <section title="in_place_t" ref="struct_private_1_1in__place__t.html" />
+              <section title="monostate" ref="class_private_1_1monostate.html" />
+              <section title="unexpect_t" ref="struct_private_1_1unexpect__t.html" />
+              <section title="unexpected" ref="class_private_1_1unexpected.html">
+                <section title="value" ref="class_private_1_1unexpected.html#a7ab688036eadff57d62d0096216f3451" />
+                <section title="value" ref="class_private_1_1unexpected.html#a1156794cc8f74434d60ccbc00bc4a6e7" />
+                <section title="value" ref="class_private_1_1unexpected.html#a5151d87e3103834fe8700b826bf740fd" />
+                <section title="value" ref="class_private_1_1unexpected.html#a963a66eddf30c268a326b773a0926d3d" />
+              </section>
+            </section>
+            <section title="TextureTool" ref="namespace_texture_tool.html">
+              <section title="AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html">
+                <section title="AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a51ddff80bf9595a4b44360fbc9a71c98" />
+                <section title="~AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a4938909e6d9153a4c7d1ad6b38cf5c06" />
+                <section title="decription" ref="class_texture_tool_1_1_abstract_tool.html#a184b81f9c1b6158cc39dad0b69b79904" />
+                <section title="id" ref="class_texture_tool_1_1_abstract_tool.html#aa71081a2304386d16d2688988e4b454d" />
+                <section title="run" ref="class_texture_tool_1_1_abstract_tool.html#ab603b5a134a749d4d5c6637f6e3d8bde" />
+              </section>
+              <section title="ConvertTool" ref="class_texture_tool_1_1_convert_tool.html">
+                <section title="ConvertTool" ref="class_texture_tool_1_1_convert_tool.html#a7d6ea835432ad605bfdda8f24c8f0dd4" />
+                <section title="decription" ref="class_texture_tool_1_1_convert_tool.html#aaeb4de66a7ba361abb4091b56af36a26" />
+                <section title="id" ref="class_texture_tool_1_1_convert_tool.html#a0da94fa4ab4eec8489f21edc63132975" />
+                <section title="run" ref="class_texture_tool_1_1_convert_tool.html#a93057068a4bb699c80b2a6142ea63968" />
+              </section>
+              <section title="Exception" ref="class_texture_tool_1_1_exception.html">
+                <section title="Exception" ref="class_texture_tool_1_1_exception.html#a73c0b2d34505753777b74608f5cf1b05" />
+                <section title="~Exception" ref="class_texture_tool_1_1_exception.html#ab6214d261762e3f05e6db80828f9459d" />
+                <section title="what" ref="class_texture_tool_1_1_exception.html#a94b56dc154172c6881d6b43463c9e2d3" />
+              </section>
+              <section title="ExitException" ref="class_texture_tool_1_1_exit_exception.html">
+                <section title="ExitException" ref="class_texture_tool_1_1_exit_exception.html#a2076ff3e9bb3a61f9bfcf1a5080cbab8" />
+                <section title="~ExitException" ref="class_texture_tool_1_1_exit_exception.html#aed056789e53fbb95aab24653b0003965" />
+                <section title="code" ref="class_texture_tool_1_1_exit_exception.html#adb79af745195535c9540f7661a501824" />
+                <section title="what" ref="class_texture_tool_1_1_exit_exception.html#a1c631e5342f4f53b539f5e703f27b9c7" />
+              </section>
+              <section title="MainParser" ref="class_texture_tool_1_1_main_parser.html">
+                <section title="MainParser" ref="class_texture_tool_1_1_main_parser.html#abcd8c9e8fdcb27070f189cfc48f71b25" />
+                <section title="process" ref="class_texture_tool_1_1_main_parser.html#abb82448ecfecfe84307a80eee7e574b5" />
+                <section title="showHelp" ref="class_texture_tool_1_1_main_parser.html#a87085f2cdebc27b99007bbf7f4f7cd47" />
+                <section title="showVersion" ref="class_texture_tool_1_1_main_parser.html#a033eabcc92403ef4f3ba6cdf07ca0b0f" />
+              </section>
+              <section title="RuntimeError" ref="class_texture_tool_1_1_runtime_error.html">
+                <section title="RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a3805ec29c12f4d7aad942ab4753e9680" />
+                <section title="RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a89e6e1fa61013a54c3372faa67134d48" />
+                <section title="~RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a1f70c679062eefa6b2e7fce96a17cd88" />
+                <section title="message" ref="class_texture_tool_1_1_runtime_error.html#a8eb7cdd4f2f01fb2597db26c2829e232" />
+                <section title="what" ref="class_texture_tool_1_1_runtime_error.html#a52518e3032dec99ba4dc541e4fb2b4a3" />
+              </section>
+              <section title="ShowTool" ref="class_texture_tool_1_1_show_tool.html">
+                <section title="ShowTool" ref="class_texture_tool_1_1_show_tool.html#a84c319cb4454416be80ac12ff992b2cd" />
+                <section title="decription" ref="class_texture_tool_1_1_show_tool.html#aa1f3985a1d8d3a7182f3d63f979bb56a" />
+                <section title="id" ref="class_texture_tool_1_1_show_tool.html#a5d01ff2ae7f105676a65aa5840771204" />
+                <section title="run" ref="class_texture_tool_1_1_show_tool.html#a3827e350b0ddc11dc2aaa0887f191168" />
+              </section>
+              <section title="ToolParser" ref="class_texture_tool_1_1_tool_parser.html">
+                <section title="ToolParser" ref="class_texture_tool_1_1_tool_parser.html#a360bd1aadc496a148a0fa51fece24515" />
+                <section title="process" ref="class_texture_tool_1_1_tool_parser.html#a27e43760f067029ba796c80f0c9b21e7" />
+                <section title="showHelp" ref="class_texture_tool_1_1_tool_parser.html#a9c4633d86d79877d3475a03adfd22891" />
+              </section>
+            </section>
+            <section title="Document" ref="class_document.html" />
+            <section title="Texture" ref="class_texture.html">
+              <section title="ArrayIndex" ref="class_texture_1_1_array_index.html">
+                <section title="ArrayIndex" ref="class_texture_1_1_array_index.html#ab6747af7b530b6dd27f24d8f5ed17078" />
+                <section title="ArrayIndex" ref="class_texture_1_1_array_index.html#a84c4a6f6f8278e8ac703e40157336429" />
+                <section title="face" ref="class_texture_1_1_array_index.html#adc21fda153e295bfd147ca5587a4669a" />
+                <section title="isNull" ref="class_texture_1_1_array_index.html#a801027fffa533832d91d8ecef8131b73" />
+                <section title="isValid" ref="class_texture_1_1_array_index.html#a257ba2ee31161298b19bea70974068d6" />
+                <section title="layer" ref="class_texture_1_1_array_index.html#a2ade61d6691a22646b3ed85437e9ed78" />
+                <section title="level" ref="class_texture_1_1_array_index.html#afd615c7ca7369f259cdec401850e0f51" />
+                <section title="setLayer" ref="class_texture_1_1_array_index.html#ac51970380ec69e2cdc3c18f3f27d6ea0" />
+                <section title="setLevel" ref="class_texture_1_1_array_index.html#af89a3b11918fc6569b6808ddb00dfbe8" />
+                <section title="setSide" ref="class_texture_1_1_array_index.html#a9df85996810d38ceaf461d7bb77df11e" />
+                <section title="side" ref="class_texture_1_1_array_index.html#a27eb2f6bb3c0691523d6615e719bb6b1" />
+              </section>
+              <section title="ArraySize" ref="class_texture_1_1_array_size.html">
+                <section title="ArraySize" ref="class_texture_1_1_array_size.html#af27d37352a94fb432703692cae508b66" />
+                <section title="ArraySize" ref="class_texture_1_1_array_size.html#a75b4145ffe3b559cc757b81b059f5ba9" />
+                <section title="ArraySize" ref="class_texture_1_1_array_size.html#a9d381d1b5c37a1bb377fd192bb6d47cf" />
+                <section title="faces" ref="class_texture_1_1_array_size.html#a356d9b27257b637eb7acdfa1b3268316" />
+                <section title="isNull" ref="class_texture_1_1_array_size.html#a1946bca5479cdd29c82acb72fd168ef5" />
+                <section title="isValid" ref="class_texture_1_1_array_size.html#ad06a64b9d6cdfddc4a67957cf56625f4" />
+                <section title="layers" ref="class_texture_1_1_array_size.html#a7b64e7c3c2a4cab07ffd7b587fdcd02a" />
+                <section title="levels" ref="class_texture_1_1_array_size.html#a0e4b0db45bd221c297804540e1ba4ee3" />
+                <section title="setLayers" ref="class_texture_1_1_array_size.html#a610c6f12720d9c6109758c8286184394" />
+                <section title="setLevels" ref="class_texture_1_1_array_size.html#a1417e6f70363065e8b25573dd8a32dc5" />
+              </section>
+              <section title="Size" ref="class_texture_1_1_size.html">
+                <section title="Size" ref="class_texture_1_1_size.html#af855e8c53bf7ee2873d940fcc8e3e3ba" />
+                <section title="Size" ref="class_texture_1_1_size.html#a175086335b1a55327b445759c46fca22" />
+                <section title="Size" ref="class_texture_1_1_size.html#a8f532bdcdcd20b44dd150b206fa9f93c" />
+                <section title="Size" ref="class_texture_1_1_size.html#af94993cd41cd8d05a2777db2e280e52b" />
+                <section title="depth" ref="class_texture_1_1_size.html#a011d58987d02cd6bf77376a68915e2a3" />
+                <section title="height" ref="class_texture_1_1_size.html#a06a9b310f37712d688efd5a7c1d7f8eb" />
+                <section title="isNull" ref="class_texture_1_1_size.html#aa08ea1c66e87beb75604b2dc2b5a5c61" />
+                <section title="isValid" ref="class_texture_1_1_size.html#a02e4190218f4ec7a9aed60b2dddecfc0" />
+                <section title="setDepth" ref="class_texture_1_1_size.html#a8da6d23f6b0ed18904d8ceaf32aaffe4" />
+                <section title="setHeight" ref="class_texture_1_1_size.html#af72009b4704ef063461b6603a56228c1" />
+                <section title="setWidth" ref="class_texture_1_1_size.html#a1305615b08907e7d1e20c911abdf703a" />
+                <section title="width" ref="class_texture_1_1_size.html#ab47d7763ad0e2f849a322be705c2e979" />
+              </section>
+              <section title="ConstData" ref="class_texture.html#a5896616c4c22ab8587bac3431dddaee1" />
+              <section title="Data" ref="class_texture.html#af430887ac37d8ea55fae0f2733fa89d6" />
+              <section title="Alignment" ref="class_texture.html#a57f71f09dcca4001c4e736c3a2e711dd">
+                <section title="Byte" ref="class_texture.html#a57f71f09dcca4001c4e736c3a2e711ddaa245c3230debe5c956484ecc6fa93877" />
+                <section title="Word" ref="class_texture.html#a57f71f09dcca4001c4e736c3a2e711dda07a094a210794e74a0e5e1a1457a92ee" />
+              </section>
+              <section title="IsCubemap" ref="class_texture.html#ad709b87cf5f2b71d74b251674425ab10">
+                <section title="No" ref="class_texture.html#ad709b87cf5f2b71d74b251674425ab10abafd7322c6e97d25b6299b5d6fe8920b" />
+                <section title="Yes" ref="class_texture.html#ad709b87cf5f2b71d74b251674425ab10a93cba07454f06a4a960172bbd6e2a435" />
+              </section>
+              <section title="Side" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3">
+                <section title="PositiveX" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a9f082d04c481aab268b9f614d2ffd129" />
+                <section title="NegativeX" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a963a8a64a09d54efc81b136ca6be21b2" />
+                <section title="PositiveY" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ac53c385ced96bd629c0f45a902aceba3" />
+                <section title="NegativeY" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ae4d5f02ceecd15caf66e9f0b2393c86b" />
+                <section title="PositiveZ" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a1921c16ffdafaf04e378ca1b6774c0ce" />
+                <section title="NegativeZ" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ada76df034cd139bd515761c8bb8e3090" />
+              </section>
+              <section title="Texture" ref="class_texture.html#ae99888efccf2f8fb9f59f460a8746a81" />
+              <section title="Texture" ref="class_texture.html#aea6e2585385d350d16497e27da372f3a" />
+              <section title="Texture" ref="class_texture.html#a084244d7cb78794849469aabd9c602ec" />
+              <section title="Texture" ref="class_texture.html#ada2a848b984038f6d4b01f5e00181d30" />
+              <section title="Texture" ref="class_texture.html#aa7e9ff11645a8a3be481eff2bd10dc9d" />
+              <section title="Texture" ref="class_texture.html#acc7211003b73a62ec0644f6a7b9f7df6" />
+              <section title="Texture" ref="class_texture.html#aa509f9cd7323438e0ef9d31906f2a674" />
+              <section title="Texture" ref="class_texture.html#a74706cd413c053bc9722c0a1eba21384" />
+              <section title="Texture" ref="class_texture.html#a9584971c7ea4404aafbf9d7c1ef9c17c" />
+              <section title="~Texture" ref="class_texture.html#a09c4bcb7462f64c1d20fa69dba3cee8a" />
+              <section title="alignment" ref="class_texture.html#a164c46f41eaad4e6c04551ebd40f0775" />
+              <section title="arraySize" ref="class_texture.html#a0772f96eaecdd7fdfa4f5e53e25c1034" />
+              <section title="bitsPerTexel" ref="class_texture.html#ab7ddfa93b84393e4b762878dfe197875" />
+              <section title="bytes" ref="class_texture.html#a0b119b2af85e41ad04cb71e4637aef40" />
+              <section title="bytesPerImage" ref="class_texture.html#abb0ab5eb8488e10c680ea2668abee784" />
+              <section title="bytesPerLine" ref="class_texture.html#af078da8a5b3a39b7bfcc8358dcd89858" />
+              <section title="bytesPerSlice" ref="class_texture.html#ad9210cb8ba6c7a29321944d49ded9dfe" />
+              <section title="constImageData" ref="class_texture.html#a39af17a4128372b18e9da8ec5cb25dad" />
+              <section title="convert" ref="class_texture.html#a9d085840f2efb48b1a7bf333eed2c326" />
+              <section title="convert" ref="class_texture.html#a3cf6c6256c93248516dc7e1b9f11f7cf" />
+              <section title="convert" ref="class_texture.html#afde13358c8f547d28c6d1f1828f4881a" />
+              <section title="copy" ref="class_texture.html#a00603b36c10e35e20a283d4746295a6f" />
+              <section title="depth" ref="class_texture.html#a4a3b6c862c9b0389fc6e7ce41e640e70" />
+              <section title="depth" ref="class_texture.html#aded6d42ceed5b57bae292e0c27c9d47e" />
+              <section title="faces" ref="class_texture.html#abe0aa22cf4259c5acf2341e790453d01" />
+              <section title="format" ref="class_texture.html#aad9dbed8099c21e9302638ad22ba4e55" />
+              <section title="height" ref="class_texture.html#a280f6b36ebf824ff1b5ceb2222988969" />
+              <section title="height" ref="class_texture.html#a37dee8760b39b315f5c743bd05b17709" />
+              <section title="imageData" ref="class_texture.html#ae3b0cbb2e648070eaf0030d5df8f7e1f" />
+              <section title="imageData" ref="class_texture.html#ade2c1a7b0ab6b727cee8eebec0a3c141" />
+              <section title="isCompressed" ref="class_texture.html#ab7ad005a036f23b3f49f41e88bcea7db" />
+              <section title="isNull" ref="class_texture.html#a496a38d85b12babbab22054858171cbb" />
+              <section title="layers" ref="class_texture.html#a1ca42e6fdcfa808ea37f1d39fcbecf76" />
+              <section title="levels" ref="class_texture.html#aaaa913cd76621ae9a6c0dce318249acd" />
+              <section title="load" ref="class_texture.html#ab189cd5aff5eb89a3981aebddda4bd31" />
+              <section title="operator=" ref="class_texture.html#a6275111bcf80d768ff70486e6c730c4b" />
+              <section title="operator=" ref="class_texture.html#aa68afb4cfb10e3b5f6f6f83cfbda20b9" />
+              <section title="save" ref="class_texture.html#a6ec738140c53e53ba1865d46395ab6af" />
+              <section title="size" ref="class_texture.html#aec063177966e53c57e3ab7501f0ce7d7" />
+              <section title="size" ref="class_texture.html#af0139a357a45a8642c79b086210fb2e5" />
+              <section title="toImage" ref="class_texture.html#a70fcc26593515fbf431afcfedbedc86a" />
+              <section title="width" ref="class_texture.html#a944933dbc1980fb01e7d23b08b97280a" />
+              <section title="width" ref="class_texture.html#a839a201d763f550c79b9669993748729" />
+            </section>
+            <section title="TextureFormatInfo" ref="class_texture_format_info.html">
+              <section title="TextureFormatInfos" ref="class_texture_format_info.html#a034007fb67c232feb0c765a50d260576" />
+              <section title="TextureFormatInfo" ref="class_texture_format_info.html#ab01853fc9b5710170bb86cbfb9c0f8ca" />
+              <section title="TextureFormatInfo" ref="class_texture_format_info.html#a45c7c0a8e6f8f9a79ebd47f3d1a67f3d" />
+              <section title="bitsPerTexel" ref="class_texture_format_info.html#a03e40ca720c924a8d6fad54271884617" />
+              <section title="blockSize" ref="class_texture_format_info.html#a65e6e8e42c0767b17ce4c48e7db8899f" />
+              <section title="format" ref="class_texture_format_info.html#adcd707b788704d6d297528de576243fd" />
+              <section title="oglPixelFormat" ref="class_texture_format_info.html#a0ea12a81ae2cd16295c18f12b6f63542" />
+              <section title="oglPixelType" ref="class_texture_format_info.html#aec550d9f2d7a35d837f4a6825705f05b" />
+              <section title="oglTextureFormat" ref="class_texture_format_info.html#aa00b0fedf9d2bdb25c5545a37038105c" />
+            </section>
+            <section title="TextureIO" ref="class_texture_i_o.html">
+              <section title="TextureIO" ref="class_texture_i_o.html#ab930119509bbe09c18f35fbd60981b59" />
+              <section title="TextureIO" ref="class_texture_i_o.html#a84d057087e526e831e0a91a3e1ba67ec" />
+              <section title="TextureIO" ref="class_texture_i_o.html#ad521961e93e06425173b2db65818b8de" />
+              <section title="TextureIO" ref="class_texture_i_o.html#a3c804e5f3d88832dc4c893a296bdc814" />
+              <section title="TextureIO" ref="class_texture_i_o.html#aab54f04c63e04e2ca5b906c1e9a51268" />
+              <section title="TextureIO" ref="class_texture_i_o.html#a81a01620ee0ca9ecd3e3cbce7f39fb88" />
+              <section title="~TextureIO" ref="class_texture_i_o.html#a24928afbd2c649f359877f4e552523f9" />
+              <section title="operator=" ref="class_texture_i_o.html#a4cbb04db0255548cf96b387ddadb2d62" />
+              <section title="read" ref="class_texture_i_o.html#af89ab8093c2116989c8a1a24d6a76b8c" />
+              <section title="write" ref="class_texture_i_o.html#a427d268555c8b07b6c2603b5d64461fd" />
+              <section title="device" ref="class_texture_i_o.html#a065f98f67e0df4ce77cfc529a6b8eb8e" />
+              <section title="fileName" ref="class_texture_i_o.html#ac2b3ba4461067f3a09e16d72f355d945" />
+              <section title="mimeType" ref="class_texture_i_o.html#a98f7033c1fcd4c6b0c8d90450db0e1a7" />
+            </section>
+            <section title="TextureIOHandler" ref="class_texture_i_o_handler.html">
+              <section title="TextureIOHandler" ref="class_texture_i_o_handler.html#a92d3b356d60f315b9a2f4f7dc2d351a2" />
+              <section title="~TextureIOHandler" ref="class_texture_i_o_handler.html#a654520e2cedf5410531cb35fe5e7eff4" />
+              <section title="device" ref="class_texture_i_o_handler.html#a730571e56e4a182ad8728bee541b3aeb" />
+              <section title="read" ref="class_texture_i_o_handler.html#a1b017de1d2902e1c7329b0bfc4b3e7e4" />
+              <section title="write" ref="class_texture_i_o_handler.html#a55b01e89a8b3a9d7ef196709a2200c00" />
+            </section>
+            <section title="TextureIOHandlerPlugin" ref="class_texture_i_o_handler_plugin.html">
+              <section title="Capability" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9">
+                <section title="CanRead" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9a4739a34ab44b24a6eb5e33db0f18a30c" />
+                <section title="CanWrite" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9aceeed41344af774ad2810e09370239ea" />
+                <section title="ReadWrite" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9a70a2a84088d405a2e3f1e3accaa16723" />
+              </section>
+              <section title="TextureIOHandlerPlugin" ref="class_texture_i_o_handler_plugin.html#ae4e973f28d6d0580a0cf7bde9f35c40b" />
+              <section title="capabilities" ref="class_texture_i_o_handler_plugin.html#a2c397e69852649980c1feeba7b2e25fd" />
+              <section title="create" ref="class_texture_i_o_handler_plugin.html#a93f02765bab004c6d7df371459bea539" />
+            </section>
+            <section title="TextureIOResult" ref="class_texture_i_o_result.html">
+              <section title="TextureIOResult" ref="class_texture_i_o_result.html#a27af4d42fb60b2ed8204a78a0955a6b6" />
+              <section title="TextureIOResult" ref="class_texture_i_o_result.html#a0fbed66f2e57f2d8b942e938be086fce" />
+              <section title="TextureIOResult" ref="class_texture_i_o_result.html#a5b4d9a123c8c76f100144e93d777c5bc" />
+              <section title="~TextureIOResult" ref="class_texture_i_o_result.html#a9e2b11314ead1f2b13d604f54978d069" />
+              <section title="error" ref="class_texture_i_o_result.html#a60ef566eb04b9e6b44502568c562d1a5" />
+              <section title="operator bool" ref="class_texture_i_o_result.html#a566e7114f8921009fbd741568eb603ca" />
+              <section title="operator!" ref="class_texture_i_o_result.html#aa164f0e3262211fd0621d927a8cf7957" />
+              <section title="operator=" ref="class_texture_i_o_result.html#a1c0c44a27db3b6f25e9398400cf19868" />
+              <section title="operator!=" ref="class_texture_i_o_result.html#a443a2f7b4610710ccd7613a2c6ac284e" />
+              <section title="operator==" ref="class_texture_i_o_result.html#a90229c05e498660a42058e257358fc82" />
+              <section title="toUserString" ref="class_texture_i_o_result.html#a8c3ea34da326dfe0c99d1fa37ce53a46" />
+            </section>
+          </section>
+          <section title="Class Index" ref="classes.html" />
+          <section title="Class Hierarchy" ref="hierarchy.html">
+            <section title="TextureTool::AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html">
+              <section title="TextureTool::ConvertTool" ref="class_texture_tool_1_1_convert_tool.html" />
+              <section title="TextureTool::ShowTool" ref="class_texture_tool_1_1_show_tool.html" />
+            </section>
+            <section title="Texture::ArrayIndex" ref="class_texture_1_1_array_index.html" />
+            <section title="Texture::ArraySize" ref="class_texture_1_1_array_size.html" />
+            <section title="Document" ref="class_document.html" />
+            <section title="TextureTool::Exception" ref="class_texture_tool_1_1_exception.html">
+              <section title="TextureTool::ExitException" ref="class_texture_tool_1_1_exit_exception.html" />
+              <section title="TextureTool::RuntimeError" ref="class_texture_tool_1_1_runtime_error.html" />
+            </section>
+            <section title="Private::expected&lt; T, E &gt;" ref="class_private_1_1expected.html" />
+            <section title="Private::in_place_t" ref="struct_private_1_1in__place__t.html" />
+            <section title="TextureTool::MainParser" ref="class_texture_tool_1_1_main_parser.html" />
+            <section title="Private::monostate" ref="class_private_1_1monostate.html" />
+            <section title="Texture::Size" ref="class_texture_1_1_size.html" />
+            <section title="gsl::span" ref="classgsl_1_1span.html" />
+            <section title="Texture" ref="class_texture.html" />
+            <section title="TextureFormatInfo" ref="class_texture_format_info.html" />
+            <section title="TextureIO" ref="class_texture_i_o.html" />
+            <section title="TextureIOHandler" ref="class_texture_i_o_handler.html" />
+            <section title="TextureIOHandlerPlugin" ref="class_texture_i_o_handler_plugin.html" />
+            <section title="TextureIOResult" ref="class_texture_i_o_result.html" />
+            <section title="TextureTool::ToolParser" ref="class_texture_tool_1_1_tool_parser.html" />
+            <section title="Private::unexpect_t" ref="struct_private_1_1unexpect__t.html" />
+            <section title="Private::unexpected&lt; E &gt;" ref="class_private_1_1unexpected.html" />
+          </section>
+          <section title="Class Members" ref="functions.html">
+            <section title="All" ref="functions.html">
+              <section title="a" ref="functions.html" />
+              <section title="b" ref="functions_b.html" />
+              <section title="c" ref="functions_c.html" />
+              <section title="d" ref="functions_d.html" />
+              <section title="e" ref="functions_e.html" />
+              <section title="f" ref="functions_f.html" />
+              <section title="h" ref="functions_h.html" />
+              <section title="i" ref="functions_i.html" />
+              <section title="l" ref="functions_l.html" />
+              <section title="m" ref="functions_m.html" />
+              <section title="o" ref="functions_o.html" />
+              <section title="p" ref="functions_p.html" />
+              <section title="r" ref="functions_r.html" />
+              <section title="s" ref="functions_s.html" />
+              <section title="t" ref="functions_t.html" />
+              <section title="v" ref="functions_v.html" />
+              <section title="w" ref="functions_w.html" />
+              <section title="~" ref="functions_0x7e.html" />
+            </section>
+            <section title="Functions" ref="functions_func.html" />
+            <section title="Variables" ref="functions_vars.html" />
+            <section title="Typedefs" ref="functions_type.html" />
+            <section title="Enumerations" ref="functions_enum.html" />
+            <section title="Properties" ref="functions_prop.html" />
+            <section title="Related Functions" ref="functions_rela.html" />
+          </section>
+        </section>
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="Texture Viewer" id="Texture Viewer" ref="md__r_e_a_d_m_e.html" />
+      <keyword name="Direct Draw Surface Format" id="Direct Draw Surface Format" ref="md_src_plugins_dds__f_o_r_m_a_t.html" />
+      <keyword name="Khronos Texture" id="Khronos Texture" ref="md_src_plugins_ktx__f_o_r_m_a_t.html" />
+      <keyword name="PKM Format" id="PKM Format" ref="md_src_plugins_pkm__f_o_r_m_a_t.html" />
+      <keyword name="Valve Texture Format" id="Valve Texture Format" ref="md_src_plugins_vtf__f_o_r_m_a_t.html" />
+      <keyword name="Document" id="Document" ref="class_document.html" />
+      <keyword name="Texture" id="Texture" ref="class_texture.html" />
+      <keyword name="Data" id="Texture::Data" ref="class_texture.html#af430887ac37d8ea55fae0f2733fa89d6" />
+      <keyword name="ConstData" id="Texture::ConstData" ref="class_texture.html#a5896616c4c22ab8587bac3431dddaee1" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#ae99888efccf2f8fb9f59f460a8746a81" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#aea6e2585385d350d16497e27da372f3a" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#a084244d7cb78794849469aabd9c602ec" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#ada2a848b984038f6d4b01f5e00181d30" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#aa7e9ff11645a8a3be481eff2bd10dc9d" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#acc7211003b73a62ec0644f6a7b9f7df6" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#aa509f9cd7323438e0ef9d31906f2a674" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#a74706cd413c053bc9722c0a1eba21384" />
+      <keyword name="Texture" id="Texture::Texture" ref="class_texture.html#a9584971c7ea4404aafbf9d7c1ef9c17c" />
+      <keyword name="~Texture" id="Texture::~Texture" ref="class_texture.html#a09c4bcb7462f64c1d20fa69dba3cee8a" />
+      <keyword name="operator=" id="Texture::operator=" ref="class_texture.html#a6275111bcf80d768ff70486e6c730c4b" />
+      <keyword name="operator=" id="Texture::operator=" ref="class_texture.html#aa68afb4cfb10e3b5f6f6f83cfbda20b9" />
+      <keyword name="isNull" id="Texture::isNull" ref="class_texture.html#a496a38d85b12babbab22054858171cbb" />
+      <keyword name="format" id="Texture::format" ref="class_texture.html#aad9dbed8099c21e9302638ad22ba4e55" />
+      <keyword name="alignment" id="Texture::alignment" ref="class_texture.html#a164c46f41eaad4e6c04551ebd40f0775" />
+      <keyword name="isCompressed" id="Texture::isCompressed" ref="class_texture.html#ab7ad005a036f23b3f49f41e88bcea7db" />
+      <keyword name="width" id="Texture::width" ref="class_texture.html#a944933dbc1980fb01e7d23b08b97280a" />
+      <keyword name="width" id="Texture::width" ref="class_texture.html#a839a201d763f550c79b9669993748729" />
+      <keyword name="height" id="Texture::height" ref="class_texture.html#a280f6b36ebf824ff1b5ceb2222988969" />
+      <keyword name="height" id="Texture::height" ref="class_texture.html#a37dee8760b39b315f5c743bd05b17709" />
+      <keyword name="depth" id="Texture::depth" ref="class_texture.html#a4a3b6c862c9b0389fc6e7ce41e640e70" />
+      <keyword name="depth" id="Texture::depth" ref="class_texture.html#aded6d42ceed5b57bae292e0c27c9d47e" />
+      <keyword name="size" id="Texture::size" ref="class_texture.html#aec063177966e53c57e3ab7501f0ce7d7" />
+      <keyword name="size" id="Texture::size" ref="class_texture.html#af0139a357a45a8642c79b086210fb2e5" />
+      <keyword name="faces" id="Texture::faces" ref="class_texture.html#abe0aa22cf4259c5acf2341e790453d01" />
+      <keyword name="levels" id="Texture::levels" ref="class_texture.html#aaaa913cd76621ae9a6c0dce318249acd" />
+      <keyword name="layers" id="Texture::layers" ref="class_texture.html#a1ca42e6fdcfa808ea37f1d39fcbecf76" />
+      <keyword name="arraySize" id="Texture::arraySize" ref="class_texture.html#a0772f96eaecdd7fdfa4f5e53e25c1034" />
+      <keyword name="bytes" id="Texture::bytes" ref="class_texture.html#a0b119b2af85e41ad04cb71e4637aef40" />
+      <keyword name="bitsPerTexel" id="Texture::bitsPerTexel" ref="class_texture.html#ab7ddfa93b84393e4b762878dfe197875" />
+      <keyword name="bytesPerLine" id="Texture::bytesPerLine" ref="class_texture.html#af078da8a5b3a39b7bfcc8358dcd89858" />
+      <keyword name="bytesPerSlice" id="Texture::bytesPerSlice" ref="class_texture.html#ad9210cb8ba6c7a29321944d49ded9dfe" />
+      <keyword name="bytesPerImage" id="Texture::bytesPerImage" ref="class_texture.html#abb0ab5eb8488e10c680ea2668abee784" />
+      <keyword name="imageData" id="Texture::imageData" ref="class_texture.html#ae3b0cbb2e648070eaf0030d5df8f7e1f" />
+      <keyword name="imageData" id="Texture::imageData" ref="class_texture.html#ade2c1a7b0ab6b727cee8eebec0a3c141" />
+      <keyword name="constImageData" id="Texture::constImageData" ref="class_texture.html#a39af17a4128372b18e9da8ec5cb25dad" />
+      <keyword name="convert" id="Texture::convert" ref="class_texture.html#a9d085840f2efb48b1a7bf333eed2c326" />
+      <keyword name="convert" id="Texture::convert" ref="class_texture.html#a3cf6c6256c93248516dc7e1b9f11f7cf" />
+      <keyword name="convert" id="Texture::convert" ref="class_texture.html#afde13358c8f547d28c6d1f1828f4881a" />
+      <keyword name="copy" id="Texture::copy" ref="class_texture.html#a00603b36c10e35e20a283d4746295a6f" />
+      <keyword name="toImage" id="Texture::toImage" ref="class_texture.html#a70fcc26593515fbf431afcfedbedc86a" />
+      <keyword name="save" id="Texture::save" ref="class_texture.html#a6ec738140c53e53ba1865d46395ab6af" />
+      <keyword name="load" id="Texture::load" ref="class_texture.html#ab189cd5aff5eb89a3981aebddda4bd31" />
+      <keyword name="calculateBytesPerLine" id="Texture::calculateBytesPerLine" ref="class_texture.html#a22eedb40cd72f5b756d3dcefcf907251" />
+      <keyword name="calculateBytesPerSlice" id="Texture::calculateBytesPerSlice" ref="class_texture.html#a112ce3e1d688235e8e0a32282cbc6e60" />
+      <keyword name="Byte" id="Texture::Byte" ref="class_texture.html#a57f71f09dcca4001c4e736c3a2e711ddaa245c3230debe5c956484ecc6fa93877" />
+      <keyword name="Word" id="Texture::Word" ref="class_texture.html#a57f71f09dcca4001c4e736c3a2e711dda07a094a210794e74a0e5e1a1457a92ee" />
+      <keyword name="No" id="Texture::No" ref="class_texture.html#ad709b87cf5f2b71d74b251674425ab10abafd7322c6e97d25b6299b5d6fe8920b" />
+      <keyword name="Yes" id="Texture::Yes" ref="class_texture.html#ad709b87cf5f2b71d74b251674425ab10a93cba07454f06a4a960172bbd6e2a435" />
+      <keyword name="PositiveX" id="Texture::PositiveX" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a9f082d04c481aab268b9f614d2ffd129" />
+      <keyword name="NegativeX" id="Texture::NegativeX" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a963a8a64a09d54efc81b136ca6be21b2" />
+      <keyword name="PositiveY" id="Texture::PositiveY" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ac53c385ced96bd629c0f45a902aceba3" />
+      <keyword name="NegativeY" id="Texture::NegativeY" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ae4d5f02ceecd15caf66e9f0b2393c86b" />
+      <keyword name="PositiveZ" id="Texture::PositiveZ" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3a1921c16ffdafaf04e378ca1b6774c0ce" />
+      <keyword name="NegativeZ" id="Texture::NegativeZ" ref="class_texture.html#a342060f37fba2e459a69f5075f5939c3ada76df034cd139bd515761c8bb8e3090" />
+      <keyword name="Texture::ArrayIndex" id="Texture::ArrayIndex" ref="class_texture_1_1_array_index.html" />
+      <keyword name="ArrayIndex" id="Texture::ArrayIndex::ArrayIndex" ref="class_texture_1_1_array_index.html#ab6747af7b530b6dd27f24d8f5ed17078" />
+      <keyword name="ArrayIndex" id="Texture::ArrayIndex::ArrayIndex" ref="class_texture_1_1_array_index.html#a84c4a6f6f8278e8ac703e40157336429" />
+      <keyword name="isNull" id="Texture::ArrayIndex::isNull" ref="class_texture_1_1_array_index.html#a801027fffa533832d91d8ecef8131b73" />
+      <keyword name="isValid" id="Texture::ArrayIndex::isValid" ref="class_texture_1_1_array_index.html#a257ba2ee31161298b19bea70974068d6" />
+      <keyword name="side" id="Texture::ArrayIndex::side" ref="class_texture_1_1_array_index.html#a27eb2f6bb3c0691523d6615e719bb6b1" />
+      <keyword name="setSide" id="Texture::ArrayIndex::setSide" ref="class_texture_1_1_array_index.html#a9df85996810d38ceaf461d7bb77df11e" />
+      <keyword name="face" id="Texture::ArrayIndex::face" ref="class_texture_1_1_array_index.html#adc21fda153e295bfd147ca5587a4669a" />
+      <keyword name="level" id="Texture::ArrayIndex::level" ref="class_texture_1_1_array_index.html#afd615c7ca7369f259cdec401850e0f51" />
+      <keyword name="setLevel" id="Texture::ArrayIndex::setLevel" ref="class_texture_1_1_array_index.html#af89a3b11918fc6569b6808ddb00dfbe8" />
+      <keyword name="layer" id="Texture::ArrayIndex::layer" ref="class_texture_1_1_array_index.html#a2ade61d6691a22646b3ed85437e9ed78" />
+      <keyword name="setLayer" id="Texture::ArrayIndex::setLayer" ref="class_texture_1_1_array_index.html#ac51970380ec69e2cdc3c18f3f27d6ea0" />
+      <keyword name="Texture::ArraySize" id="Texture::ArraySize" ref="class_texture_1_1_array_size.html" />
+      <keyword name="ArraySize" id="Texture::ArraySize::ArraySize" ref="class_texture_1_1_array_size.html#af27d37352a94fb432703692cae508b66" />
+      <keyword name="ArraySize" id="Texture::ArraySize::ArraySize" ref="class_texture_1_1_array_size.html#a75b4145ffe3b559cc757b81b059f5ba9" />
+      <keyword name="ArraySize" id="Texture::ArraySize::ArraySize" ref="class_texture_1_1_array_size.html#a9d381d1b5c37a1bb377fd192bb6d47cf" />
+      <keyword name="isNull" id="Texture::ArraySize::isNull" ref="class_texture_1_1_array_size.html#a1946bca5479cdd29c82acb72fd168ef5" />
+      <keyword name="isValid" id="Texture::ArraySize::isValid" ref="class_texture_1_1_array_size.html#ad06a64b9d6cdfddc4a67957cf56625f4" />
+      <keyword name="faces" id="Texture::ArraySize::faces" ref="class_texture_1_1_array_size.html#a356d9b27257b637eb7acdfa1b3268316" />
+      <keyword name="levels" id="Texture::ArraySize::levels" ref="class_texture_1_1_array_size.html#a0e4b0db45bd221c297804540e1ba4ee3" />
+      <keyword name="setLevels" id="Texture::ArraySize::setLevels" ref="class_texture_1_1_array_size.html#a1417e6f70363065e8b25573dd8a32dc5" />
+      <keyword name="layers" id="Texture::ArraySize::layers" ref="class_texture_1_1_array_size.html#a7b64e7c3c2a4cab07ffd7b587fdcd02a" />
+      <keyword name="setLayers" id="Texture::ArraySize::setLayers" ref="class_texture_1_1_array_size.html#a610c6f12720d9c6109758c8286184394" />
+      <keyword name="Texture::Size" id="Texture::Size" ref="class_texture_1_1_size.html" />
+      <keyword name="Size" id="Texture::Size::Size" ref="class_texture_1_1_size.html#af855e8c53bf7ee2873d940fcc8e3e3ba" />
+      <keyword name="Size" id="Texture::Size::Size" ref="class_texture_1_1_size.html#a175086335b1a55327b445759c46fca22" />
+      <keyword name="Size" id="Texture::Size::Size" ref="class_texture_1_1_size.html#a8f532bdcdcd20b44dd150b206fa9f93c" />
+      <keyword name="Size" id="Texture::Size::Size" ref="class_texture_1_1_size.html#af94993cd41cd8d05a2777db2e280e52b" />
+      <keyword name="isNull" id="Texture::Size::isNull" ref="class_texture_1_1_size.html#aa08ea1c66e87beb75604b2dc2b5a5c61" />
+      <keyword name="isValid" id="Texture::Size::isValid" ref="class_texture_1_1_size.html#a02e4190218f4ec7a9aed60b2dddecfc0" />
+      <keyword name="width" id="Texture::Size::width" ref="class_texture_1_1_size.html#ab47d7763ad0e2f849a322be705c2e979" />
+      <keyword name="setWidth" id="Texture::Size::setWidth" ref="class_texture_1_1_size.html#a1305615b08907e7d1e20c911abdf703a" />
+      <keyword name="height" id="Texture::Size::height" ref="class_texture_1_1_size.html#a06a9b310f37712d688efd5a7c1d7f8eb" />
+      <keyword name="setHeight" id="Texture::Size::setHeight" ref="class_texture_1_1_size.html#af72009b4704ef063461b6603a56228c1" />
+      <keyword name="depth" id="Texture::Size::depth" ref="class_texture_1_1_size.html#a011d58987d02cd6bf77376a68915e2a3" />
+      <keyword name="setDepth" id="Texture::Size::setDepth" ref="class_texture_1_1_size.html#a8da6d23f6b0ed18904d8ceaf32aaffe4" />
+      <keyword name="TextureFormatInfo" id="TextureFormatInfo" ref="class_texture_format_info.html" />
+      <keyword name="TextureFormatInfos" id="TextureFormatInfo::TextureFormatInfos" ref="class_texture_format_info.html#a034007fb67c232feb0c765a50d260576" />
+      <keyword name="TextureFormatInfo" id="TextureFormatInfo::TextureFormatInfo" ref="class_texture_format_info.html#ab01853fc9b5710170bb86cbfb9c0f8ca" />
+      <keyword name="TextureFormatInfo" id="TextureFormatInfo::TextureFormatInfo" ref="class_texture_format_info.html#a45c7c0a8e6f8f9a79ebd47f3d1a67f3d" />
+      <keyword name="format" id="TextureFormatInfo::format" ref="class_texture_format_info.html#adcd707b788704d6d297528de576243fd" />
+      <keyword name="bitsPerTexel" id="TextureFormatInfo::bitsPerTexel" ref="class_texture_format_info.html#a03e40ca720c924a8d6fad54271884617" />
+      <keyword name="blockSize" id="TextureFormatInfo::blockSize" ref="class_texture_format_info.html#a65e6e8e42c0767b17ce4c48e7db8899f" />
+      <keyword name="oglTextureFormat" id="TextureFormatInfo::oglTextureFormat" ref="class_texture_format_info.html#aa00b0fedf9d2bdb25c5545a37038105c" />
+      <keyword name="oglPixelFormat" id="TextureFormatInfo::oglPixelFormat" ref="class_texture_format_info.html#a0ea12a81ae2cd16295c18f12b6f63542" />
+      <keyword name="oglPixelType" id="TextureFormatInfo::oglPixelType" ref="class_texture_format_info.html#aec550d9f2d7a35d837f4a6825705f05b" />
+      <keyword name="formatInfo" id="TextureFormatInfo::formatInfo" ref="class_texture_format_info.html#a3e7dcd48adc1e9acb25c90f4b8669a69" />
+      <keyword name="allFormatInfos" id="TextureFormatInfo::allFormatInfos" ref="class_texture_format_info.html#a90a5ce0492dd33d2db7665b48d4b7806" />
+      <keyword name="TextureIO" id="TextureIO" ref="class_texture_i_o.html" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#ab930119509bbe09c18f35fbd60981b59" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#a84d057087e526e831e0a91a3e1ba67ec" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#ad521961e93e06425173b2db65818b8de" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#a3c804e5f3d88832dc4c893a296bdc814" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#aab54f04c63e04e2ca5b906c1e9a51268" />
+      <keyword name="TextureIO" id="TextureIO::TextureIO" ref="class_texture_i_o.html#a81a01620ee0ca9ecd3e3cbce7f39fb88" />
+      <keyword name="~TextureIO" id="TextureIO::~TextureIO" ref="class_texture_i_o.html#a24928afbd2c649f359877f4e552523f9" />
+      <keyword name="operator=" id="TextureIO::operator=" ref="class_texture_i_o.html#a4cbb04db0255548cf96b387ddadb2d62" />
+      <keyword name="read" id="TextureIO::read" ref="class_texture_i_o.html#af89ab8093c2116989c8a1a24d6a76b8c" />
+      <keyword name="write" id="TextureIO::write" ref="class_texture_i_o.html#a427d268555c8b07b6c2603b5d64461fd" />
+      <keyword name="fileName" id="TextureIO::fileName" ref="class_texture_i_o.html#ac2b3ba4461067f3a09e16d72f355d945" />
+      <keyword name="device" id="TextureIO::device" ref="class_texture_i_o.html#a065f98f67e0df4ce77cfc529a6b8eb8e" />
+      <keyword name="mimeType" id="TextureIO::mimeType" ref="class_texture_i_o.html#a98f7033c1fcd4c6b0c8d90450db0e1a7" />
+      <keyword name="TextureIOHandler" id="TextureIOHandler" ref="class_texture_i_o_handler.html" />
+      <keyword name="TextureIOHandler" id="TextureIOHandler::TextureIOHandler" ref="class_texture_i_o_handler.html#a92d3b356d60f315b9a2f4f7dc2d351a2" />
+      <keyword name="~TextureIOHandler" id="TextureIOHandler::~TextureIOHandler" ref="class_texture_i_o_handler.html#a654520e2cedf5410531cb35fe5e7eff4" />
+      <keyword name="device" id="TextureIOHandler::device" ref="class_texture_i_o_handler.html#a730571e56e4a182ad8728bee541b3aeb" />
+      <keyword name="read" id="TextureIOHandler::read" ref="class_texture_i_o_handler.html#a1b017de1d2902e1c7329b0bfc4b3e7e4" />
+      <keyword name="write" id="TextureIOHandler::write" ref="class_texture_i_o_handler.html#a55b01e89a8b3a9d7ef196709a2200c00" />
+      <keyword name="TextureIOHandlerPlugin" id="TextureIOHandlerPlugin" ref="class_texture_i_o_handler_plugin.html" />
+      <keyword name="TextureIOHandlerPlugin" id="TextureIOHandlerPlugin::TextureIOHandlerPlugin" ref="class_texture_i_o_handler_plugin.html#ae4e973f28d6d0580a0cf7bde9f35c40b" />
+      <keyword name="capabilities" id="TextureIOHandlerPlugin::capabilities" ref="class_texture_i_o_handler_plugin.html#a2c397e69852649980c1feeba7b2e25fd" />
+      <keyword name="create" id="TextureIOHandlerPlugin::create" ref="class_texture_i_o_handler_plugin.html#a93f02765bab004c6d7df371459bea539" />
+      <keyword name="CanRead" id="TextureIOHandlerPlugin::CanRead" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9a4739a34ab44b24a6eb5e33db0f18a30c" />
+      <keyword name="CanWrite" id="TextureIOHandlerPlugin::CanWrite" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9aceeed41344af774ad2810e09370239ea" />
+      <keyword name="ReadWrite" id="TextureIOHandlerPlugin::ReadWrite" ref="class_texture_i_o_handler_plugin.html#a57528c04d60b09ff50c1a98e895f73b9a70a2a84088d405a2e3f1e3accaa16723" />
+      <keyword name="TextureIOResult" id="TextureIOResult" ref="class_texture_i_o_result.html" />
+      <keyword name="TextureIOResult" id="TextureIOResult::TextureIOResult" ref="class_texture_i_o_result.html#a27af4d42fb60b2ed8204a78a0955a6b6" />
+      <keyword name="TextureIOResult" id="TextureIOResult::TextureIOResult" ref="class_texture_i_o_result.html#a0fbed66f2e57f2d8b942e938be086fce" />
+      <keyword name="TextureIOResult" id="TextureIOResult::TextureIOResult" ref="class_texture_i_o_result.html#a5b4d9a123c8c76f100144e93d777c5bc" />
+      <keyword name="~TextureIOResult" id="TextureIOResult::~TextureIOResult" ref="class_texture_i_o_result.html#a9e2b11314ead1f2b13d604f54978d069" />
+      <keyword name="operator=" id="TextureIOResult::operator=" ref="class_texture_i_o_result.html#a1c0c44a27db3b6f25e9398400cf19868" />
+      <keyword name="error" id="TextureIOResult::error" ref="class_texture_i_o_result.html#a60ef566eb04b9e6b44502568c562d1a5" />
+      <keyword name="operator bool" id="TextureIOResult::operator bool" ref="class_texture_i_o_result.html#a566e7114f8921009fbd741568eb603ca" />
+      <keyword name="operator!" id="TextureIOResult::operator!" ref="class_texture_i_o_result.html#aa164f0e3262211fd0621d927a8cf7957" />
+      <keyword name="operator==" id="TextureIOResult::operator==" ref="class_texture_i_o_result.html#a90229c05e498660a42058e257358fc82" />
+      <keyword name="operator!=" id="TextureIOResult::operator!=" ref="class_texture_i_o_result.html#a443a2f7b4610710ccd7613a2c6ac284e" />
+      <keyword name="toUserString" id="TextureIOResult::toUserString" ref="class_texture_i_o_result.html#a8c3ea34da326dfe0c99d1fa37ce53a46" />
+      <keyword name="Details" id="Details" ref="namespace_details.html" />
+      <keyword name="Invalid" id="Details::Invalid" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda4bbb8f967da6d1a610596d7257179c2b" />
+      <keyword name="A8_Unorm" id="Details::A8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddabd8cc0260028699233398fddd7c4df2a" />
+      <keyword name="L8_Unorm" id="Details::L8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda9950459576a60d6584b7abfd05169197" />
+      <keyword name="R8_Snorm" id="Details::R8_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda06831669203fb5aee8e9ed30ebc673cb" />
+      <keyword name="R8_Unorm" id="Details::R8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddafcc2c6eea2e43df9a49eaea4928c55b3" />
+      <keyword name="R8_Sint" id="Details::R8_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda5f579fedc22e1dafdd1d3789086e868f" />
+      <keyword name="R8_Uint" id="Details::R8_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddadae38acd9437f80c511530215bfb31ed" />
+      <keyword name="LA8_Unorm" id="Details::LA8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda87088e61968e7e454d12bd74ef71f6d0" />
+      <keyword name="R16_Snorm" id="Details::R16_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda5b771221ba9a26011e2d43ec8d2af54e" />
+      <keyword name="R16_Unorm" id="Details::R16_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda410cf3749f173c21d9f195ca62e51847" />
+      <keyword name="R16_Sint" id="Details::R16_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda1d9fb4641f8f8a2923afad1d8cd50f4e" />
+      <keyword name="R16_Uint" id="Details::R16_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda43a9ce65279733e7f9b9af72298752fd" />
+      <keyword name="R16_Float" id="Details::R16_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda60e57443195989c79d3859db13b3e60f" />
+      <keyword name="RG8_Snorm" id="Details::RG8_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda7879384fd334a9e5853d31e3e68b4006" />
+      <keyword name="RG8_Unorm" id="Details::RG8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda75ea6d664e036695c90b5c89f679d114" />
+      <keyword name="RG8_Sint" id="Details::RG8_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaa4656a3c7d4f90e68bed456a08213ac2" />
+      <keyword name="RG8_Uint" id="Details::RG8_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda89a9631d60d6e87ae0b50e62e211eec0" />
+      <keyword name="RGB8_Unorm" id="Details::RGB8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddadec0ecb63c06e97496b91074e7086cde" />
+      <keyword name="BGR8_Unorm" id="Details::BGR8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaaf095281e9638e22a435888bd62bb6f7" />
+      <keyword name="R32_Sint" id="Details::R32_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda3d9327622cda020be336b9745bcccaa6" />
+      <keyword name="R32_Uint" id="Details::R32_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddab4239f67a3fff5652496369de0efd967" />
+      <keyword name="R32_Float" id="Details::R32_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda402c6292557037b75b26c047538491dc" />
+      <keyword name="RG16_Snorm" id="Details::RG16_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda8333c07591de896111f175e2ca1571e8" />
+      <keyword name="RG16_Unorm" id="Details::RG16_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaaf575c867f506785a2f1af560f3f09be" />
+      <keyword name="RG16_Sint" id="Details::RG16_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda57fc77062ecd495022a9ad9d15382f23" />
+      <keyword name="RG16_Uint" id="Details::RG16_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda1c20a5c5781037f480fc503cb18794be" />
+      <keyword name="RG16_Float" id="Details::RG16_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaa7fc2cba4159ded49669ac72fb145c39" />
+      <keyword name="RGBA8_Snorm" id="Details::RGBA8_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda9d77f27d57b766410aed4348db588712" />
+      <keyword name="RGBA8_Unorm" id="Details::RGBA8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda0a002ab9ccfd30de0af2049c9a64bd79" />
+      <keyword name="RGBA8_Sint" id="Details::RGBA8_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda96573b62e3224f155ba7421aa04ed671" />
+      <keyword name="RGBA8_Uint" id="Details::RGBA8_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaba78b7fadb426d812d66c6a0db005816" />
+      <keyword name="RGBA8_Srgb" id="Details::RGBA8_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda6e4848d08715d7ee8d8008db439c44c4" />
+      <keyword name="BGRA8_Unorm" id="Details::BGRA8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda436f08e6ff8ef46fd69e0e3602ad095a" />
+      <keyword name="BGRA8_Srgb" id="Details::BGRA8_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda6b403060864952d44d1969ba474e3abd" />
+      <keyword name="ABGR8_Unorm" id="Details::ABGR8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaf45164be441aa0692d83a5ad81822505" />
+      <keyword name="RGBX8_Unorm" id="Details::RGBX8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda1dbd0c80e0125443ebf723c33d56d7ba" />
+      <keyword name="BGRX8_Unorm" id="Details::BGRX8_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda405be31249430393142f5aae0727c7f1" />
+      <keyword name="BGRX8_Srgb" id="Details::BGRX8_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddad108dc061cf3d40ea55fdea990e85289" />
+      <keyword name="RGBA16_Snorm" id="Details::RGBA16_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda43e48d189ae9060bea96f34fb0f6421a" />
+      <keyword name="RGBA16_Unorm" id="Details::RGBA16_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddae8c4555601d2cda05531af20fecbf1a9" />
+      <keyword name="RGBA16_Sint" id="Details::RGBA16_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda907e4da0285d153d4e6ce1435ea72079" />
+      <keyword name="RGBA16_Uint" id="Details::RGBA16_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda2884f1df89ea1f20979b5d703777825f" />
+      <keyword name="RGBA16_Float" id="Details::RGBA16_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda771b533c400a6197981856bbc4dc60af" />
+      <keyword name="RG32_Sint" id="Details::RG32_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaafb1c8201c5312845eb0e9bb48d826b9" />
+      <keyword name="RG32_Uint" id="Details::RG32_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda3eb7d12651d526254ed10095fe159546" />
+      <keyword name="RG32_Float" id="Details::RG32_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddafc7e7c9fe9ebcb2c959e5a32c1c0d902" />
+      <keyword name="RGB32_Sint" id="Details::RGB32_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaa77a5617ac3e9753719997c0138f9f04" />
+      <keyword name="RGB32_Uint" id="Details::RGB32_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddae7e97625799b0b598a6e73573fc7cabd" />
+      <keyword name="RGB32_Float" id="Details::RGB32_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda358e9f28e82234d8c71df9c77d59dab7" />
+      <keyword name="RGBA32_Sint" id="Details::RGBA32_Sint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddacfaef4e119f25fe626c1e6a412005bc0" />
+      <keyword name="RGBA32_Uint" id="Details::RGBA32_Uint" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda122495938a113baf725d3f7294688902" />
+      <keyword name="RGBA32_Float" id="Details::RGBA32_Float" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddabfb0d75a480f8dcb304e3751a1ae2b29" />
+      <keyword name="BGR565_Unorm" id="Details::BGR565_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda3ddd74e6d63e75ec9fd986c442c09755" />
+      <keyword name="RGB565_Unorm" id="Details::RGB565_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda50c8765d56983a6567c4d67e4538a5f6" />
+      <keyword name="BGRA4_Unorm" id="Details::BGRA4_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda48cfbf65e22992ac485e43629c992bc9" />
+      <keyword name="BGRX4_Unorm" id="Details::BGRX4_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda34fe0d20d28d4687b075ca2fcbaac1ac" />
+      <keyword name="BGRA5551_Unorm" id="Details::BGRA5551_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda3307dde976df19f0474da732b312fd7b" />
+      <keyword name="BGRX5551_Unorm" id="Details::BGRX5551_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaf2a6198242afff8f9f9a27a81a7a37ff" />
+      <keyword name="RGB332_Unorm" id="Details::RGB332_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda844a80b256bdd9d2044597f63ab74dde" />
+      <keyword name="Bc1Rgb_Unorm" id="Details::Bc1Rgb_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaadc8212b044f7cd667d4d5464c346330" />
+      <keyword name="Bc1Rgb_Srgb" id="Details::Bc1Rgb_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda06abd8df6bc9ccb3e8c4df2c95cab48c" />
+      <keyword name="Bc1Rgba_Unorm" id="Details::Bc1Rgba_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaf793130e28349235b3a9a8539a224589" />
+      <keyword name="Bc1Rgba_Srgb" id="Details::Bc1Rgba_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda8f9ece5759a5888b400f56b52291906b" />
+      <keyword name="Bc2_Unorm" id="Details::Bc2_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda5c0022923aa3411b26c190a4e08c61a0" />
+      <keyword name="Bc2_Srgb" id="Details::Bc2_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda78a4921a3c51224507a5fe5f1392ff63" />
+      <keyword name="Bc3_Unorm" id="Details::Bc3_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda5b5d70a136f766491f7099489703f6fb" />
+      <keyword name="Bc3_Srgb" id="Details::Bc3_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda045384713a6708c92c8255f1459815cc" />
+      <keyword name="Bc4_Snorm" id="Details::Bc4_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda3c1c419463011254e370fa0a3a6e0eb7" />
+      <keyword name="Bc4_Unorm" id="Details::Bc4_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda38fbdea72e4c3038225d1b36d61c13ed" />
+      <keyword name="Bc5_Snorm" id="Details::Bc5_Snorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddabda7cbc427dcac19874e2afd2ffb56ac" />
+      <keyword name="Bc6HUF16" id="Details::Bc6HUF16" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda94d0c524095a510426beae86ab04e4e4" />
+      <keyword name="Bc6HSF16" id="Details::Bc6HSF16" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda2640039cf3d33eb3df23f90a2ad21c9a" />
+      <keyword name="Bc7_Unorm" id="Details::Bc7_Unorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda1f4fdec589fd8ae6ff953ed326996282" />
+      <keyword name="Bc7_Srgb" id="Details::Bc7_Srgb" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda913ff32bbd7d77b5edb10e178e4575e2" />
+      <keyword name="RXGB" id="Details::RXGB" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda72b89544b5ee330c06cd63683b70ff4b" />
+      <keyword name="RG_ATI2N_UNorm" id="Details::RG_ATI2N_UNorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda810b87509eba29306baaf766719d7034" />
+      <keyword name="RGB8_ETC1" id="Details::RGB8_ETC1" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda95debf89d9dbed5b7d3d4c8015d775dc" />
+      <keyword name="RGB8_ETC2" id="Details::RGB8_ETC2" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda43f002d5206c5f4090ad8e1f10a86e84" />
+      <keyword name="RGBA8_ETC2_EAC" id="Details::RGBA8_ETC2_EAC" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaf03990f1e49da759f3c177076e12f8c1" />
+      <keyword name="RGB8_PunchThrough_Alpha1_ETC2" id="Details::RGB8_PunchThrough_Alpha1_ETC2" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddaa71379dfff8c89e5b204d82b9117be7a" />
+      <keyword name="R11_EAC_UNorm" id="Details::R11_EAC_UNorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda0ed83af1055ae06d1b663ab628bc16a4" />
+      <keyword name="RG11_EAC_UNorm" id="Details::RG11_EAC_UNorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda4f905802939ae7597dd9898349224f85" />
+      <keyword name="R11_EAC_SNorm" id="Details::R11_EAC_SNorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488dda49e6e06ca97a86324acc9cbb99a10761" />
+      <keyword name="RG11_EAC_SNorm" id="Details::RG11_EAC_SNorm" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddae6ed5c71c1bdfcc2df1c2705e7613a18" />
+      <keyword name="FormatsCount" id="Details::FormatsCount" ref="namespace_details.html#ab6807320ed79b02e2a32f7a61b2488ddab0ac3f91fa886398915bb12ad175a537" />
+      <keyword name="gsl" id="gsl" ref="namespacegsl.html" />
+      <keyword name="gsl::span" id="gsl::span" ref="classgsl_1_1span.html" />
+      <keyword name="gsl::details" id="gsl::details" ref="namespacegsl_1_1details.html" />
+      <keyword name="Private::expected" id="Private::expected" ref="class_private_1_1expected.html" />
+      <keyword name="and_then" id="Private::expected::and_then" ref="class_private_1_1expected.html#afe8637ced114d6a5a171c38e1f91e82c" />
+      <keyword name="and_then" id="Private::expected::and_then" ref="class_private_1_1expected.html#a12491d2cbccac0314920231ca383397a" />
+      <keyword name="and_then" id="Private::expected::and_then" ref="class_private_1_1expected.html#a88d5b2ae25a3e5fa72f83dcec5308d5c" />
+      <keyword name="and_then" id="Private::expected::and_then" ref="class_private_1_1expected.html#a452a65040f44084409ee9966ef11abf7" />
+      <keyword name="or_else" id="Private::expected::or_else" ref="class_private_1_1expected.html#a5b26de11cd2ff21ca19d50ee3e5a5557" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#a115f6adf8b466b0e8ee462cb12b98ebb" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#adabb075fe5ad556d08d05c1b685d1393" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#ac4838cf6ac20872cacef6db8c0b79c1e" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#ac4838cf6ac20872cacef6db8c0b79c1e" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#ae3eb941316f541ac555de8fc7f6357bd" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#ac545dd88a2d998e70b5fabd2dc585aea" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#a6a4f6d0b2b42456f34efe07ee646bb32" />
+      <keyword name="expected" id="Private::expected::expected" ref="class_private_1_1expected.html#a88072e11e5039e743d995b3c75c9db70" />
+      <keyword name="operator=" id="Private::expected::operator=" ref="class_private_1_1expected.html#ab7aa7f87936ad77c06461214bc4bc560" />
+      <keyword name="emplace" id="Private::expected::emplace" ref="class_private_1_1expected.html#af10beeea8b5389f51441c3aa274623f6" />
+      <keyword name="emplace" id="Private::expected::emplace" ref="class_private_1_1expected.html#a0b7177f6e0c5b6dc0706490c4e9bf9a8" />
+      <keyword name="operator-&gt;" id="Private::expected::operator-&gt;" ref="class_private_1_1expected.html#a1769c9e7054f7fede66a58d9fd466828" />
+      <keyword name="operator-&gt;" id="Private::expected::operator-&gt;" ref="class_private_1_1expected.html#a2921488f5382f393ce747c8190d7a4b1" />
+      <keyword name="operator*" id="Private::expected::operator*" ref="class_private_1_1expected.html#a54d40480be076fdb9f043b34f8543721" />
+      <keyword name="operator*" id="Private::expected::operator*" ref="class_private_1_1expected.html#a1674a3930c1ba2665fd0d17616156212" />
+      <keyword name="operator*" id="Private::expected::operator*" ref="class_private_1_1expected.html#a17c857033d306025217570447d9ad731" />
+      <keyword name="operator*" id="Private::expected::operator*" ref="class_private_1_1expected.html#a64e143db2815ecf246063827ee84a54e" />
+      <keyword name="has_value" id="Private::expected::has_value" ref="class_private_1_1expected.html#a503b30fa27f858239581bac4769341d0" />
+      <keyword name="operator bool" id="Private::expected::operator bool" ref="class_private_1_1expected.html#a01b0c430dbfc6f5ad4f34d0bc672d584" />
+      <keyword name="value" id="Private::expected::value" ref="class_private_1_1expected.html#ad5bf336cf237374cd6b4deb66e7a1660" />
+      <keyword name="value" id="Private::expected::value" ref="class_private_1_1expected.html#a97c864b95f04a07f8b0cbe4b7a8f886e" />
+      <keyword name="value" id="Private::expected::value" ref="class_private_1_1expected.html#aa6a3f2b2aaadd23ad86b8088983765a2" />
+      <keyword name="value" id="Private::expected::value" ref="class_private_1_1expected.html#abce8616cb89d0ac30f1ca7f5be2184b8" />
+      <keyword name="error" id="Private::expected::error" ref="class_private_1_1expected.html#ac1e736976bc17e7956b40d281248ef1f" />
+      <keyword name="error" id="Private::expected::error" ref="class_private_1_1expected.html#ae08c0f2d2e54860c96de4a812df92f1f" />
+      <keyword name="error" id="Private::expected::error" ref="class_private_1_1expected.html#ac3a9c49b2e02b0e6d112ced6762f4a9e" />
+      <keyword name="error" id="Private::expected::error" ref="class_private_1_1expected.html#a92f871372e3fece92a7560e44735dcfd" />
+      <keyword name="value_or" id="Private::expected::value_or" ref="class_private_1_1expected.html#ab9879673c5ff7de3b52350afe1bbb9af" />
+      <keyword name="value_or" id="Private::expected::value_or" ref="class_private_1_1expected.html#a917f3218f35f513de69d21d989da1ae5" />
+      <keyword name="map" id="Private::expected::map" ref="class_private_1_1expected.html#a48033f4a3fac2e946c764258e809ced3" />
+      <keyword name="map" id="Private::expected::map" ref="class_private_1_1expected.html#a2837d89331e08be110ec5860edfd37a4" />
+      <keyword name="map" id="Private::expected::map" ref="class_private_1_1expected.html#a9563925e4c55b3e06cfe41fddbc9864d" />
+      <keyword name="map_error" id="Private::expected::map_error" ref="class_private_1_1expected.html#a1f352895b763aed083442063a3c200bb" />
+      <keyword name="map_error" id="Private::expected::map_error" ref="class_private_1_1expected.html#a4f753abd6b1439bcd84e8f5203f53fdc" />
+      <keyword name="map_error" id="Private::expected::map_error" ref="class_private_1_1expected.html#a4fc10b3abdd1524a85897ee264249abc" />
+      <keyword name="map_error" id="Private::expected::map_error" ref="class_private_1_1expected.html#a944d78ef7f0bd9ebfab4a78c4f27083b" />
+      <keyword name="Private::in_place_t" id="Private::in_place_t" ref="struct_private_1_1in__place__t.html" />
+      <keyword name="Private::monostate" id="Private::monostate" ref="class_private_1_1monostate.html" />
+      <keyword name="Private::unexpect_t" id="Private::unexpect_t" ref="struct_private_1_1unexpect__t.html" />
+      <keyword name="Private::unexpected" id="Private::unexpected" ref="class_private_1_1unexpected.html" />
+      <keyword name="value" id="Private::unexpected::value" ref="class_private_1_1unexpected.html#a7ab688036eadff57d62d0096216f3451" />
+      <keyword name="value" id="Private::unexpected::value" ref="class_private_1_1unexpected.html#a1156794cc8f74434d60ccbc00bc4a6e7" />
+      <keyword name="value" id="Private::unexpected::value" ref="class_private_1_1unexpected.html#a5151d87e3103834fe8700b826bf740fd" />
+      <keyword name="value" id="Private::unexpected::value" ref="class_private_1_1unexpected.html#a963a66eddf30c268a326b773a0926d3d" />
+      <keyword name="Private::detail" id="Private::detail" ref="namespace_private_1_1detail.html" />
+      <keyword name="TextureTool" id="TextureTool" ref="namespace_texture_tool.html" />
+      <keyword name="TextureTool::AbstractTool" id="TextureTool::AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html" />
+      <keyword name="AbstractTool" id="TextureTool::AbstractTool::AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a51ddff80bf9595a4b44360fbc9a71c98" />
+      <keyword name="~AbstractTool" id="TextureTool::AbstractTool::~AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a4938909e6d9153a4c7d1ad6b38cf5c06" />
+      <keyword name="id" id="TextureTool::AbstractTool::id" ref="class_texture_tool_1_1_abstract_tool.html#aa71081a2304386d16d2688988e4b454d" />
+      <keyword name="decription" id="TextureTool::AbstractTool::decription" ref="class_texture_tool_1_1_abstract_tool.html#a184b81f9c1b6158cc39dad0b69b79904" />
+      <keyword name="run" id="TextureTool::AbstractTool::run" ref="class_texture_tool_1_1_abstract_tool.html#ab603b5a134a749d4d5c6637f6e3d8bde" />
+      <keyword name="TextureTool::ConvertTool" id="TextureTool::ConvertTool" ref="class_texture_tool_1_1_convert_tool.html" />
+      <keyword name="ConvertTool" id="TextureTool::ConvertTool::ConvertTool" ref="class_texture_tool_1_1_convert_tool.html#a7d6ea835432ad605bfdda8f24c8f0dd4" />
+      <keyword name="id" id="TextureTool::ConvertTool::id" ref="class_texture_tool_1_1_convert_tool.html#a0da94fa4ab4eec8489f21edc63132975" />
+      <keyword name="decription" id="TextureTool::ConvertTool::decription" ref="class_texture_tool_1_1_convert_tool.html#aaeb4de66a7ba361abb4091b56af36a26" />
+      <keyword name="run" id="TextureTool::ConvertTool::run" ref="class_texture_tool_1_1_convert_tool.html#a93057068a4bb699c80b2a6142ea63968" />
+      <keyword name="AbstractTool" id="TextureTool::AbstractTool::AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a51ddff80bf9595a4b44360fbc9a71c98" />
+      <keyword name="~AbstractTool" id="TextureTool::AbstractTool::~AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a4938909e6d9153a4c7d1ad6b38cf5c06" />
+      <keyword name="TextureTool::Exception" id="TextureTool::Exception" ref="class_texture_tool_1_1_exception.html" />
+      <keyword name="Exception" id="TextureTool::Exception::Exception" ref="class_texture_tool_1_1_exception.html#a73c0b2d34505753777b74608f5cf1b05" />
+      <keyword name="~Exception" id="TextureTool::Exception::~Exception" ref="class_texture_tool_1_1_exception.html#ab6214d261762e3f05e6db80828f9459d" />
+      <keyword name="what" id="TextureTool::Exception::what" ref="class_texture_tool_1_1_exception.html#a94b56dc154172c6881d6b43463c9e2d3" />
+      <keyword name="TextureTool::ExitException" id="TextureTool::ExitException" ref="class_texture_tool_1_1_exit_exception.html" />
+      <keyword name="ExitException" id="TextureTool::ExitException::ExitException" ref="class_texture_tool_1_1_exit_exception.html#a2076ff3e9bb3a61f9bfcf1a5080cbab8" />
+      <keyword name="~ExitException" id="TextureTool::ExitException::~ExitException" ref="class_texture_tool_1_1_exit_exception.html#aed056789e53fbb95aab24653b0003965" />
+      <keyword name="code" id="TextureTool::ExitException::code" ref="class_texture_tool_1_1_exit_exception.html#adb79af745195535c9540f7661a501824" />
+      <keyword name="what" id="TextureTool::ExitException::what" ref="class_texture_tool_1_1_exit_exception.html#a1c631e5342f4f53b539f5e703f27b9c7" />
+      <keyword name="Exception" id="TextureTool::Exception::Exception" ref="class_texture_tool_1_1_exception.html#a73c0b2d34505753777b74608f5cf1b05" />
+      <keyword name="~Exception" id="TextureTool::Exception::~Exception" ref="class_texture_tool_1_1_exception.html#ab6214d261762e3f05e6db80828f9459d" />
+      <keyword name="what" id="TextureTool::Exception::what" ref="class_texture_tool_1_1_exception.html#a94b56dc154172c6881d6b43463c9e2d3" />
+      <keyword name="TextureTool::MainParser" id="TextureTool::MainParser" ref="class_texture_tool_1_1_main_parser.html" />
+      <keyword name="MainParser" id="TextureTool::MainParser::MainParser" ref="class_texture_tool_1_1_main_parser.html#abcd8c9e8fdcb27070f189cfc48f71b25" />
+      <keyword name="process" id="TextureTool::MainParser::process" ref="class_texture_tool_1_1_main_parser.html#abb82448ecfecfe84307a80eee7e574b5" />
+      <keyword name="showHelp" id="TextureTool::MainParser::showHelp" ref="class_texture_tool_1_1_main_parser.html#a87085f2cdebc27b99007bbf7f4f7cd47" />
+      <keyword name="showVersion" id="TextureTool::MainParser::showVersion" ref="class_texture_tool_1_1_main_parser.html#a033eabcc92403ef4f3ba6cdf07ca0b0f" />
+      <keyword name="showMessage" id="TextureTool::MainParser::showMessage" ref="class_texture_tool_1_1_main_parser.html#aad8fa398a8bd73f7f8ef83a8329932cd" />
+      <keyword name="showError" id="TextureTool::MainParser::showError" ref="class_texture_tool_1_1_main_parser.html#a4e31b91d88ade0273830572599ba1684" />
+      <keyword name="TextureTool::RuntimeError" id="TextureTool::RuntimeError" ref="class_texture_tool_1_1_runtime_error.html" />
+      <keyword name="RuntimeError" id="TextureTool::RuntimeError::RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a3805ec29c12f4d7aad942ab4753e9680" />
+      <keyword name="RuntimeError" id="TextureTool::RuntimeError::RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a89e6e1fa61013a54c3372faa67134d48" />
+      <keyword name="~RuntimeError" id="TextureTool::RuntimeError::~RuntimeError" ref="class_texture_tool_1_1_runtime_error.html#a1f70c679062eefa6b2e7fce96a17cd88" />
+      <keyword name="message" id="TextureTool::RuntimeError::message" ref="class_texture_tool_1_1_runtime_error.html#a8eb7cdd4f2f01fb2597db26c2829e232" />
+      <keyword name="what" id="TextureTool::RuntimeError::what" ref="class_texture_tool_1_1_runtime_error.html#a52518e3032dec99ba4dc541e4fb2b4a3" />
+      <keyword name="Exception" id="TextureTool::Exception::Exception" ref="class_texture_tool_1_1_exception.html#a73c0b2d34505753777b74608f5cf1b05" />
+      <keyword name="~Exception" id="TextureTool::Exception::~Exception" ref="class_texture_tool_1_1_exception.html#ab6214d261762e3f05e6db80828f9459d" />
+      <keyword name="what" id="TextureTool::Exception::what" ref="class_texture_tool_1_1_exception.html#a94b56dc154172c6881d6b43463c9e2d3" />
+      <keyword name="TextureTool::ShowTool" id="TextureTool::ShowTool" ref="class_texture_tool_1_1_show_tool.html" />
+      <keyword name="ShowTool" id="TextureTool::ShowTool::ShowTool" ref="class_texture_tool_1_1_show_tool.html#a84c319cb4454416be80ac12ff992b2cd" />
+      <keyword name="id" id="TextureTool::ShowTool::id" ref="class_texture_tool_1_1_show_tool.html#a5d01ff2ae7f105676a65aa5840771204" />
+      <keyword name="decription" id="TextureTool::ShowTool::decription" ref="class_texture_tool_1_1_show_tool.html#aa1f3985a1d8d3a7182f3d63f979bb56a" />
+      <keyword name="run" id="TextureTool::ShowTool::run" ref="class_texture_tool_1_1_show_tool.html#a3827e350b0ddc11dc2aaa0887f191168" />
+      <keyword name="AbstractTool" id="TextureTool::AbstractTool::AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a51ddff80bf9595a4b44360fbc9a71c98" />
+      <keyword name="~AbstractTool" id="TextureTool::AbstractTool::~AbstractTool" ref="class_texture_tool_1_1_abstract_tool.html#a4938909e6d9153a4c7d1ad6b38cf5c06" />
+      <keyword name="TextureTool::ToolParser" id="TextureTool::ToolParser" ref="class_texture_tool_1_1_tool_parser.html" />
+      <keyword name="ToolParser" id="TextureTool::ToolParser::ToolParser" ref="class_texture_tool_1_1_tool_parser.html#a360bd1aadc496a148a0fa51fece24515" />
+      <keyword name="process" id="TextureTool::ToolParser::process" ref="class_texture_tool_1_1_tool_parser.html#a27e43760f067029ba796c80f0c9b21e7" />
+      <keyword name="showHelp" id="TextureTool::ToolParser::showHelp" ref="class_texture_tool_1_1_tool_parser.html#a9c4633d86d79877d3475a03adfd22891" />
+      <keyword name="showMessage" id="TextureTool::ToolParser::showMessage" ref="class_texture_tool_1_1_tool_parser.html#aae6de3de42d7177d6c460a38b615b56f" />
+      <keyword name="showError" id="TextureTool::ToolParser::showError" ref="class_texture_tool_1_1_tool_parser.html#aaf75336650dab7f7b806586cc89c9dcc" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>bdwn.png</file>
+      <file>sync_on.png</file>
+      <file>sync_off.png</file>
+      <file>doxygen.css</file>
+      <file>jquery.js</file>
+      <file>dynsections.js</file>
+      <file>search/search_l.png</file>
+      <file>search/search_m.png</file>
+      <file>search/search_r.png</file>
+      <file>search/close.png</file>
+      <file>search/mag_sel.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>md__r_e_a_d_m_e.html</file>
+      <file>md_src_plugins_dds__f_o_r_m_a_t.html</file>
+      <file>md_src_plugins_ktx__f_o_r_m_a_t.html</file>
+      <file>md_src_plugins_pkm__f_o_r_m_a_t.html</file>
+      <file>md_src_plugins_vtf__f_o_r_m_a_t.html</file>
+      <file>class_document.html</file>
+      <file>class_texture.html</file>
+      <file>class_texture-members.html</file>
+      <file>class_texture_1_1_array_index.html</file>
+      <file>class_texture_1_1_array_index-members.html</file>
+      <file>class_texture_1_1_array_size.html</file>
+      <file>class_texture_1_1_array_size-members.html</file>
+      <file>class_texture_1_1_size.html</file>
+      <file>class_texture_1_1_size-members.html</file>
+      <file>class_texture_format_info.html</file>
+      <file>class_texture_format_info-members.html</file>
+      <file>class_texture_i_o.html</file>
+      <file>class_texture_i_o-members.html</file>
+      <file>class_texture_i_o_handler.html</file>
+      <file>class_texture_i_o_handler-members.html</file>
+      <file>class_texture_i_o_handler_plugin.html</file>
+      <file>class_texture_i_o_handler_plugin-members.html</file>
+      <file>class_texture_i_o_result.html</file>
+      <file>class_texture_i_o_result-members.html</file>
+      <file>namespace_details.html</file>
+      <file>namespacegsl.html</file>
+      <file>classgsl_1_1span.html</file>
+      <file>namespacegsl_1_1details.html</file>
+      <file>class_private_1_1expected.html</file>
+      <file>class_private_1_1expected-members.html</file>
+      <file>struct_private_1_1in__place__t.html</file>
+      <file>struct_private_1_1in__place__t-members.html</file>
+      <file>class_private_1_1monostate.html</file>
+      <file>struct_private_1_1unexpect__t.html</file>
+      <file>struct_private_1_1unexpect__t-members.html</file>
+      <file>class_private_1_1unexpected.html</file>
+      <file>class_private_1_1unexpected-members.html</file>
+      <file>namespace_private_1_1detail.html</file>
+      <file>namespace_texture_tool.html</file>
+      <file>class_texture_tool_1_1_abstract_tool.html</file>
+      <file>class_texture_tool_1_1_abstract_tool.png</file>
+      <file>class_texture_tool_1_1_abstract_tool-members.html</file>
+      <file>class_texture_tool_1_1_convert_tool.html</file>
+      <file>class_texture_tool_1_1_convert_tool.png</file>
+      <file>class_texture_tool_1_1_convert_tool-members.html</file>
+      <file>class_texture_tool_1_1_exception.html</file>
+      <file>class_texture_tool_1_1_exception.png</file>
+      <file>class_texture_tool_1_1_exception-members.html</file>
+      <file>class_texture_tool_1_1_exit_exception.html</file>
+      <file>class_texture_tool_1_1_exit_exception.png</file>
+      <file>class_texture_tool_1_1_exit_exception-members.html</file>
+      <file>class_texture_tool_1_1_main_parser.html</file>
+      <file>class_texture_tool_1_1_main_parser-members.html</file>
+      <file>class_texture_tool_1_1_runtime_error.html</file>
+      <file>class_texture_tool_1_1_runtime_error.png</file>
+      <file>class_texture_tool_1_1_runtime_error-members.html</file>
+      <file>class_texture_tool_1_1_show_tool.html</file>
+      <file>class_texture_tool_1_1_show_tool.png</file>
+      <file>class_texture_tool_1_1_show_tool-members.html</file>
+      <file>class_texture_tool_1_1_tool_parser.html</file>
+      <file>class_texture_tool_1_1_tool_parser-members.html</file>
+      <file>dir_53adf0b982dc8545998aae3f283a5a58.html</file>
+      <file>dir_b44f685f27163a3532809a80b4a9ed75.html</file>
+      <file>dir_79d3cd2d9e567763e23868116ef9270c.html</file>
+      <file>dir_9aa33b26ad0fb18a2b62418d1b93abcb.html</file>
+      <file>dir_2eb395b8e459247910e6067e76d852fc.html</file>
+      <file>dir_e68e8157741866f444e17edd764ebbae.html</file>
+      <file>dir_d44c64559bbebec7f509842c48db8b23.html</file>
+      <file>dir_9f2c34cbd5a76c41d672eb85724492ed.html</file>
+      <file>dir_87a455bccb09a92130c26a11a880c98a.html</file>
+      <file>dir_b350fc9ae0c2b0d6a73a73514759756b.html</file>
+      <file>dir_8804738d48c5ee3174086fb87711f07f.html</file>
+      <file>dir_7020b8b7abcceffa3f9f7a2d24718f16.html</file>
+      <file>dir_4bd6cd521a56a9f4d924ab2d33a9895d.html</file>
+      <file>dir_848144865b4df4118a6bfb93b430190c.html</file>
+      <file>dir_61c9e5842729cb34568d93cb98ad85b9.html</file>
+      <file>dir_68267d1309a1af8e8297ef4c3efbcdba.html</file>
+      <file>dir_76a5a79febaa82a9720bc21328d19392.html</file>
+      <file>dir_524a81db1bf191ba030b39d67f2a15b4.html</file>
+      <file>dir_78a32676159223b253bb95befbd494b9.html</file>
+      <file>dir_dc426dadaa5eedee060c0744e034db72.html</file>
+      <file>dir_02269da24401fd25ab566f44bac4659f.html</file>
+      <file>dir_6dab4e958ced06f8a74ccf9189381d4e.html</file>
+      <file>dir_c405d0eb0825f330a08e92f29382275e.html</file>
+      <file>dir_4a808a9b357dfb2a141d62fcf49a4d63.html</file>
+      <file>dir_3d6f7965bcc314f0ff7c0c238528ef03.html</file>
+      <file>dir_50b7da4ae84f2d37abd79ba04ac9450f.html</file>
+      <file>dir_59425e443f801f1f2fd8bbe4959a3ccf.html</file>
+      <file>dir_3b403cca8197035bc6ca0c28203ebdce.html</file>
+      <file>dir_f37a89ba8edbff830e60d24db8ea5c3c.html</file>
+      <file>dir_7a7ffda877c90a80df1b573e3e916a8f.html</file>
+      <file>dir_e5879040c5e37fb85717e1b2b9571245.html</file>
+      <file>dir_ef2afc481c16da8d6f130b5651cc3db7.html</file>
+      <file>dir_0613198e77a9b173fe3ff0a50633b455.html</file>
+      <file>dir_15bb9ab0f8f659a8d83d4bcf5a1d6b10.html</file>
+      <file>index.html</file>
+      <file>pages.html</file>
+      <file>namespaces.html</file>
+      <file>namespacemembers.html</file>
+      <file>namespacemembers_enum.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>functions.html</file>
+      <file>functions_b.html</file>
+      <file>functions_c.html</file>
+      <file>functions_d.html</file>
+      <file>functions_e.html</file>
+      <file>functions_f.html</file>
+      <file>functions_h.html</file>
+      <file>functions_i.html</file>
+      <file>functions_l.html</file>
+      <file>functions_m.html</file>
+      <file>functions_o.html</file>
+      <file>functions_p.html</file>
+      <file>functions_r.html</file>
+      <file>functions_s.html</file>
+      <file>functions_t.html</file>
+      <file>functions_v.html</file>
+      <file>functions_w.html</file>
+      <file>functions_0x7e.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_type.html</file>
+      <file>functions_type.html</file>
+      <file>functions_type.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_prop.html</file>
+      <file>functions_prop.html</file>
+      <file>functions_prop.html</file>
+      <file>functions_rela.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>
